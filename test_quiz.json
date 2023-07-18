@@ -1,0 +1,29 @@
+[
+    {
+        "question": "What is the capital of Germany ?",
+        "options": [
+            "London",
+            "Paris",
+            "Berlin"
+        ],
+        "answer": "Berlin"
+    },
+    {
+        "question": "Which is the pythagorean theorem ?",
+        "options": [
+            "A^2 + B^2 = C^2",
+            "A * B = C^2",
+            "A^2 * B^2 = C^2"
+        ],
+        "answer": "A^2 + B^2 = C^2"
+    },
+    {
+        "question": "What is 5 + 3 ?",
+        "options": [
+            "9",
+            "8",
+            "7"
+        ],
+        "answer": "8"
+    }
+]
