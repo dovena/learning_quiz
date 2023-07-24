@@ -20,6 +20,7 @@ class Quiz:
 
         for i, question in enumerate(self.questions, 1):
             print(f"Question {i}: {question['question']}")
+            random.shuffle(question["options"])
             for j, option in enumerate(question["options"], 1):
                 print(f"{j}. {option}")
 
